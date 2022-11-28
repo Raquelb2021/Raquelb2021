@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raquel Bezerra
+- 🎀 Hi, I’m Raquel Bezerra
 - 🌱 I’m currently learning C language
 - <div>
   <a href-"https://github.com/Raquelb2021">
