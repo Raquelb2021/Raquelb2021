@@ -1,5 +1,5 @@
 - 🎀 Hi, I’m Raquel Bezerra
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning Python
 - <div>
   <a href-"https://github.com/Raquelb2021">
    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Raquelb2021&show_icons=true&theme=bear&hide=contribs,prs)(https://github.com/Raquelb2021/github-readme-stats)"/>
